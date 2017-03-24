@@ -84,5 +84,47 @@ function dodecagon(size){
 
 // Type your function call below
 
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+dodecagon(30);
+triangle(15);
+triangle(15);
+triangle(15);
+triangle(15);
 
-stamp();
+triangle(20);
+triangle(20);
+triangle(20);
+triangle(20);
+
+triangle(25);
+triangle(25);
+triangle(25);
+triangle(25);
+
+square(25);
+right(180);
+
+square(25);
+right(90);
+square(25);
+right(180);
+
+square(25);
+right(90)
+
+square(25);
+right(180);
+
+square(25);
+right(90)
+
